@@ -4,7 +4,8 @@
 
 ## I'm Gabriel!
 
-Hi, I'm in the first period of software engineering, <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>, 
+<h2> Hi, I'm in the first period of software engineering </h2> 
+<a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>.
 
 
  Also, I'm always reading about technology and looking for new things!
