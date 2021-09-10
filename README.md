@@ -23,7 +23,7 @@
 ## About me
 
 <a href="https://www.linkedin.com/in/gabriel-andre-01429a213/" rel="nofollow"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="max-width:100%;"></a>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="max-width:100%;">
+
 
 
 - Thanks for visiting.
