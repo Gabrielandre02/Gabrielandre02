@@ -7,7 +7,7 @@
 
 <p> Hi, I'm in the first period of software engineering </p> 
 <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
-
+<br>
 
  Also, I'm always reading about technology and looking for new things!
 
@@ -22,8 +22,8 @@
 
 ## About me
 
-
-
+<a href="https://www.linkedin.com/in/gabriel-andre-01429a213/" rel="nofollow"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="max-width:100%;"></a>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="max-width:100%;">
 
 
 - Thanks for visiting.
