@@ -1,5 +1,5 @@
 # Welcome!
-<img align="right" width="400" height="400" src="https://hermes.digitalinnovation.one/articles/cover/29c47249-dc22-40c7-8ff4-208f940ba1ce.gif">
+<img align="right" width="400" height="400" src="https://f4nt0.github.io/PR0GR4M1NG/img/js-home.gif">
  
 
 ## I'm Gabriel!
