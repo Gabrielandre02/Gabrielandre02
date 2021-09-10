@@ -4,8 +4,10 @@
 
 ## I'm Gabriel!
 
- Hello I'm in the first period of software engineering, 
- besides that I'm always reading about technology and looking to learn new things!
+Hi, I'm in the first period of software engineering, <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>, 
+
+
+ Also, I'm always reading about technology and looking for new things!
 
 :computer: a future backend develop!
 
@@ -15,7 +17,6 @@
 
 :outbox_tray: 2021 Goals: looking for an opportunity to grow!
 
- <img align="center" src="https://camo.githubusercontent.com/762e5977fbd6c95b802a647362fc6d220cfd6e53948ffc458ab5fa6585287336/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5468654475646554686174436f6465267468656d653d6461726b26686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielandre02;theme=dark&amp;hide_langs_below=1" style="max-width: 100%;">
 
 ## About me
 
