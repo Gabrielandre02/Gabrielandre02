@@ -1,5 +1,5 @@
 # Welcome!
-
+<img align="right" width="400" height="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true">
  
 
 ## I'm Gabriel!
@@ -19,7 +19,6 @@
 ## About me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gabriel-andre-01429a213/)]( https://www.linkedin.com/in/gabriel-andre-01429a213/)
 
 
 
