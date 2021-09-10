@@ -6,7 +6,7 @@
 
 
 <p> Hi, I'm in the first period of software engineering </p> 
-<a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>.>
+<a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
 
 
  Also, I'm always reading about technology and looking for new things!
