@@ -2,6 +2,9 @@
  
  
  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
+<p> Hi, I'm in the first period of software engineering </p> <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
+<br>
+<p>  Also, I'm always reading about technology and looking for new things! <p>
 
 <div>
   <a href="https://github.com/gabrielandre02">
@@ -15,13 +18,10 @@
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-<br>
- 
-<p> Hi, I'm in the first period of software engineering </p> 
-<a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
+ </div>
 <br>
 
- Also, I'm always reading about technology and looking for new things!
+<h2>
 
 :computer: a future backend develop!
 
@@ -30,7 +30,7 @@
 :books: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: looking for an opportunity to grow!
-
+ </h2>
 
 ## About me
 
