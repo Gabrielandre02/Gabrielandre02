@@ -2,9 +2,21 @@
  
  
  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
-<img align="right" width="200" height="200" src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif">
 
+<div>
+  <a href="https://github.com/gabrielandre02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielandre02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielandre02&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
+ <div style="display: inline_block"><br>
+ 
+  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+<br>
+ 
 <p> Hi, I'm in the first period of software engineering </p> 
 <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
 <br>
@@ -27,9 +39,3 @@
 
 
 - Thanks for visiting.
-
-- Enjoy it!! o/
-
-
-
-   
