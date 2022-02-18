@@ -15,20 +15,23 @@
 
 ---
 
-Sou cientista de dados, estou me especializando cada dias mais na area, atualmente faço curso "data science na pratica " e "cientista de dados" pela EBAC .
+ Sou cientista de dados, estou me especializando cada dias mais na area, atualmente faço curso "data science na pratica " e "cientista de dados" pela EBAC .
 Estou 2 periodo de engenharia de software, na universidade unninter.
 Gosto de python, descobri essa afinidade pela linguagem na faculdade, e busquei aprender mais sobre ela,
 ---
-Sobre mim !
+ ### Sobre mim !
 Sou de UBerlândia, mas atualmente moro em curitiba.
 meus hobby sao, quebra-cabeça, jogos de tabuleiro, lol, e fps!
 Gosto de ler livros, e de astronomia .
 ---
- Onde me encontrar ? 
+ ### Onde me encontrar ? 
  
  <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-andre-01429a213/)
-   
-  
+---
+ 
+### Link projetos :
+
+
  
 ---
 - Thanks for visiting.
