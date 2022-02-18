@@ -1,38 +1,32 @@
-![capa github]() 
+![capa github](https://i.imgur.com/Zx8rPJX.png) 
 
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandre02&hide=html&layout=compact&theme=vue" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielandre02&theme=vue"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandre02&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielandre02&theme=buefy"/></td>
     </tr>   
   </table>
 </center> 
 
 
- ### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+ ### Hello welcome :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 ---
-
- Sou cientista de dados, estou me especializando cada dias mais na area, atualmente faço curso "data science na pratica " e "cientista de dados" pela EBAC .
-Estou 2 periodo de engenharia de software, na universidade unninter.
-Gosto de python, descobri essa afinidade pela linguagem na faculdade, e busquei aprender mais sobre ela,
+I'm a data scientist, I'm specializing more and more in the area, I'm currently taking a course "data science in practice" and "data scientist" by EBAC.<br>
+I am 2 period of software engineering, at unninter university.<br>
+I found that python is one of the best language!<br>
 ---
- ### Sobre mim !
-Sou de UBerlândia, mas atualmente moro em curitiba.
-meus hobby sao, quebra-cabeça, jogos de tabuleiro, lol, e fps!
-Gosto de ler livros, e de astronomia .
+ ### About me !
+I'm from Uberlândia, but I currently live in curitiba.<br>
+my hobbies are puzzles, board games, lol, and fps!<br>
+I like to read, watch series, movies related to science fiction<br>
 ---
- ### Onde me encontrar ? 
+ ### where to find me ? 
  
  <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-andre-01429a213/)
----
- 
-### Link projetos :
 
-
- 
 ---
 - Thanks for visiting.
 ---
