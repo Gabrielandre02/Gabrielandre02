@@ -1,41 +1,36 @@
-<h1>I'm Gabriel! </h1>
+![capa github]() 
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandre02&hide=html&layout=compact&theme=vue" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielandre02&theme=vue"/></td>
+    </tr>   
+  </table>
+</center> 
+
+
+ ### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
+---
+
+Sou cientista de dados, estou me especializando cada dias mais na area, atualmente faço curso "data science na pratica " e "cientista de dados" pela EBAC .
+Estou 2 periodo de engenharia de software, na universidade unninter.
+Gosto de python, descobri essa afinidade pela linguagem na faculdade, e busquei aprender mais sobre ela,
+---
+Sobre mim !
+Sou de UBerlândia, mas atualmente moro em curitiba.
+meus hobby sao, quebra-cabeça, jogos de tabuleiro, lol, e fps!
+Gosto de ler livros, e de astronomia .
+---
+ Onde me encontrar ? 
  
+ <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-andre-01429a213/)
+   
+  
  
- Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
-<p> Hi, I'm in the first period of software engineering </p> <a href="https://www.uninter.com/centro-universitario-internacional/" rel="nofollow"> <b>CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER </b>. </a>
-<br>
-<p>  Also, I'm always reading about technology and looking for new things! <p>
-
-<div>
-  <a href="https://github.com/gabrielandre02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielandre02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielandre02&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
- <div style="display: inline_block"><br>
- 
-  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- </div>
-<br>
-
-<h2>
-
-:computer: a future backend develop!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: looking for an opportunity to grow!
- </h2>
-
-## About me
-
-<a href="https://www.linkedin.com/in/gabriel-andre-01429a213/" rel="nofollow"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="max-width:100%;"></a>
-
-
-
+---
 - Thanks for visiting.
+---
+![](https://komarev.com/ghpvc/?username=gabrielandre02&color=blue&style=flat)
