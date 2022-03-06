@@ -24,10 +24,9 @@ my hobbies are puzzles, board games, lol, and fps!<br>
 I like to read, watch series, movies related to science fiction<br>
 ---
  ### where to find me ? 
- 
+ <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-5.png" width="20"></img></a> [Medium](https://medium.com/@andre-carmo02)
  <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-andre-01429a213/)
  
- <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://miro.medium.com/max/1838/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="16"></img></a> [Medium](https://medium.com/@andre-carmo02)
 ---
 - Thanks for visiting.
 ---
