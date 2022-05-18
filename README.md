@@ -4,13 +4,11 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielandre02)
 
 # Hello welcome :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px"> 
-I'm a data scientist, I'm specializing more and more in the area, I'm currently taking a course "data science in practice" and "data scientist" by EBAC.<br>
-I am 2 period of software engineering, at unninter university.<br>
-I found that python is one of the best language!<br>
+I'm a software engineering student, who sometimes develops in python (which, by the way, is one of the best languages), and I'm also looking to become a future data scientist.
 
 - 🌱 I’m currently learning Python and Data Science related
 - 🤝 I’m looking to collaborate on Data Science projects
 - ✍️ Repositories in English and Brazilian Portuguese
 - 💬 Ask me about anything
 
-##Thanks for visiting.
+## Thanks for visiting.
