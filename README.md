@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-andre-01429a213/)  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() 
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielandre02)
 
-# Hello welcome :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px"> 
+# Hello welcome :)
 I'm a software engineering student, who sometimes develops in python (which, by the way, is one of the best languages), and I'm also looking to become a future data scientist.
 
 - 🌱 I’m currently learning Python and Data Science related
