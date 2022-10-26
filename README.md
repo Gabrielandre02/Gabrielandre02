@@ -4,9 +4,11 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielandre02)
 
 # Hello welcome :)
+I'm a software engineering student, who sometimes develops in python (which, by the way, is one of the best languages), and I'm also looking to become a future 
+DevOps.
 
-- 🌱 Repository for BotCamp Cloud DevOps
-- 🤝 Here will be Stored all activities and projects done
+- 🌱 I’m currently learning Python and DevOps related
+- 🤝 I’m looking to collaborate on Zabbix projects
 - ✍️ Repositories in English and Brazilian Portuguese
 - 💬 Ask me about anything
 
@@ -15,8 +17,11 @@
 
 # Seja Bem Vindo :)
 
-- 🌱 Repositorio para o BotCamp Cloud DevOps
-- 🤝 Aqui serão Armazenado todas as atividades e projetos feito
+Sou estudante de engenharia de software, que às vezes desenvolve em python (que, por sinal, é uma das melhores linguagens), e também busco me tornar um futuro
+DevOps.
+
+- 🌱 Atualmente estou aprendendo Python e DevOps relacionado
+- 🤝 Estou procurando colaborar em projetos Zabbix
 - ✍️ Repositórios em inglês e português brasileiro
 - 💬 Pergunte-me sobre qualquer coisa
 
