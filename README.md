@@ -4,10 +4,11 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielandre02)
 
 # Hello welcome :)
-I'm a software engineering student, who sometimes develops in python (which, by the way, is one of the best languages), and I'm also looking to become a future data scientist.
+I'm a software engineering student, who sometimes develops in python (which, by the way, is one of the best languages), and I'm also looking to become a future 
+DevOps.
 
-- 🌱 I’m currently learning Python and Data Science related
-- 🤝 I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning Python and DevOps related
+- 🤝 I’m looking to collaborate on Zabbix projects
 - ✍️ Repositories in English and Brazilian Portuguese
 - 💬 Ask me about anything
 
