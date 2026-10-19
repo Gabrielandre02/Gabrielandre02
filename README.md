@@ -51,7 +51,7 @@ learning:  homelab experiments -> blog posts
 ### GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielandre02&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielandre02&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Gabrielandre02&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="Streak" />
 </div>
 
