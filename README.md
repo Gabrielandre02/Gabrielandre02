@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Gabriel+Carmo;SRE+%2F+Platform+Engineer;Kubernetes+%C2%B7+GitOps+%C2%B7+Observability;Open+Source+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Gabriel+Andre;SRE+%2F+Platform+Engineer;Kubernetes+%C2%B7+GitOps+%C2%B7+Observability;Open+Source+enthusiast" alt="Typing SVG" />
 
 [![Blog](https://img.shields.io/badge/blog-gabrielandre.com.br-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://blog.gabrielandre.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielandre02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielandre02/)
