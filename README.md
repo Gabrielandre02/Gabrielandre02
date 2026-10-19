@@ -39,7 +39,11 @@ learning:  homelab experiments -> blog posts
 
 ### Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [OCI HomeLab, Part 2: Building Was Only the Beginning](https://blog.gabrielandre.com.br/oci-homelab-part-2-building-was-only-the-beginning/) <sub>18/09/2026</sub>
+- [Home Lab on OCI&#39;s Free Tier.](https://blog.gabrielandre.com.br/home-lab-on-ocis-free-tier/) <sub>29/03/2026</sub>
+- [GitLab with Traefik: A Hands-On DevOps Lab Using Docker Swarm, Ansible, and Vagrant](https://blog.gabrielandre.com.br/gitlab-with-traefik-a-hands-on-devops-lab-using-docker-swarm-ansible-and-vagrant/) <sub>04/01/2026</sub>
+- [Zabbix Lab - Docker Swarm + Traefik &lpar;Reverse Proxy&rpar; with Vagrant + Ansible](https://blog.gabrielandre.com.br/zabbix-lab-docker-swarm-traefik-reverse-proxy-with-vagrant-ansible/) <sub>01/01/2026</sub>
+- [How to Reset the Admin Password in Grafana with PostgreSQL](https://blog.gabrielandre.com.br/how-to-reset-the-admin-password-in-grafana-with-postgresql/) <sub>04/03/2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://blog.gabrielandre.com.br/)
