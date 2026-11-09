@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/blog-gabrielandre.com.br-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://blog.gabrielandre.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielandre02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielandre02/)
-[![Credly](https://img.shields.io/badge/Credly-certifications-FF6F00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-carmo.dev)
+[![Credly](https://img.shields.io/badge/Credly-certifications-FF6F00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel.andre)
 ![Profile views](https://komarev.com/ghpvc/?username=Gabrielandre02&style=flat-square&color=58A6FF&label=views)
 
 </div>
