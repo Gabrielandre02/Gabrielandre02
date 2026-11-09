@@ -85,4 +85,28 @@ learning:  homelab experiments -> blog posts
 </div>
 
 <!-- OSS_CONTRIBUTIONS_START -->
+
+#### Merged pull requests
+
+**[argocd-agent](https://github.com/argoproj-labs/argocd-agent) (Redefining the multi cluster story of Argo CD)**
+
+* [#1185](https://github.com/argoproj-labs/argocd-agent/pull/1185): feat: warn that namespace-based mapping is deprecated
+* [#1183](https://github.com/argoproj-labs/argocd-agent/pull/1183): fix(agent): keep the re-created app when the principal deletes and re-creates it
+* [#1177](https://github.com/argoproj-labs/argocd-agent/pull/1177): ci(e2e): pin goreman and use the go.mod toolchain in the e2e job
+* [#1176](https://github.com/argoproj-labs/argocd-agent/pull/1176): fix(e2e): wait for agents to connect before running tests
+* [#1173](https://github.com/argoproj-labs/argocd-agent/pull/1173): fix: stop leaking redis subscription goroutines in agent and principal
+
+**[istio-headlamp-plugin](https://github.com/eottabom/istio-headlamp-plugin) (Istio service mesh UI for Headlamp, with first-class ambient mode support and spec-first resource details.)**
+
+* [#2](https://github.com/eottabom/istio-headlamp-plugin/pull/2): fix: find the Istio control plane outside istio-system
+
+**[kubernetes-security-kcsa-mock](https://github.com/thiago4go/kubernetes-security-kcsa-mock) (This project is an interactive web application designed to help aspiring Kubernetes security professionals prepare for certification exams. It features a comprehensive and adjustable mock exam with questions covering various aspects of Kubernetes security.)**
+
+* [#45](https://github.com/thiago4go/kubernetes-security-kcsa-mock/pull/45): Source add/docker compose and docker build
+
+**[pull-request](https://github.com/aprenda-git/pull-request) (Passo a passo de um pull request)**
+
+* [#270](https://github.com/aprenda-git/pull-request/pull/270): Adiciona assinatura gabriel andre
+
+
 <!-- OSS_CONTRIBUTIONS_END -->
