@@ -36,10 +36,6 @@ I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
 * [#2](https://github.com/eottabom/istio-headlamp-plugin/pull/2): fix: find the Istio control plane outside istio-system
 
-**[KCSA mock exam](https://github.com/thiago4go/kubernetes-security-kcsa-mock) (Kubernetes security certification practice app)**
-
-* [#45](https://github.com/thiago4go/kubernetes-security-kcsa-mock/pull/45): Source add/docker compose and docker build
-
 
 <!-- OSS_CONTRIBUTIONS_END -->
 
