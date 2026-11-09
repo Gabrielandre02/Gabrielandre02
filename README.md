@@ -16,7 +16,7 @@ I run and troubleshoot production platforms: Kubernetes clusters (RKE2, OpenShif
 
 ## Open source
 
-I contribute upstream to projects I run in production: Argo CD Agent, Headlamp and OpenShift GitOps.
+I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
 [![merged PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Amerged+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org&label=merged%20PRs&color=2ea44f&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Amerged+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org) [![open PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Aopen+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org&label=open%20PRs&color=58A6FF&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Aopen+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org)
 
@@ -70,24 +70,6 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
 ➡️ [More posts](https://blog.gabrielandre.com.br/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/pacman-contribution-graph.svg" />
 </picture>
-
-## Preview: contribution graphs
-
-<!-- temporary section to compare options; remove before merging -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/pacman-contribution-graph-dark.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/pacman-contribution-graph.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/breakout-contribution-graph-dark.svg" />
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/breakout-contribution-graph.svg" />
-</picture>
-
-![3D contributions, green](https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-3d/profile-green-animate.svg)
-
-![3D contributions, night view](https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-3d/profile-night-view.svg)
