@@ -37,6 +37,21 @@ learning:  homelab experiments -> blog posts
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logoColor=white)
 
+### Certifications
+
+<!-- CREDLY:START -->
+<p align="center">
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/kubestronaut"><img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="90" alt="Kubestronaut" title="Kubestronaut" /></a>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/cks-certified-kubernetes-security-specialist"><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="90" alt="CKS: Certified Kubernetes Security Specialist" title="CKS: Certified Kubernetes Security Specialist" /></a>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/kcsa-kubernetes-and-cloud-native-security-associate"><img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="90" alt="KCSA: Kubernetes and Cloud Native Security Associate" title="KCSA: Kubernetes and Cloud Native Security Associate" /></a>
+  <a href="https://www.credly.com/org/google-cloud/badge/associate-cloud-engineer-certification"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="90" alt="Associate Cloud Engineer Certification" title="Associate Cloud Engineer Certification" /></a>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/kcna-kubernetes-and-cloud-native-associate"><img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="90" alt="KCNA: Kubernetes and Cloud Native Associate" title="KCNA: Kubernetes and Cloud Native Associate" /></a>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/ckad-certified-kubernetes-application-developer"><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="90" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" /></a>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="90" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator" /></a>
+  <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-in-openshift"><img src="https://images.credly.com/images/e7a34dc0-feb1-44a1-b8e7-3f825faf1c8e/blob" width="90" alt="Red Hat Certified System Administrator in OpenShift" title="Red Hat Certified System Administrator in OpenShift" /></a>
+</p>
+<!-- CREDLY:END -->
+
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->- [OCI HomeLab, Part 2: Building Was Only the Beginning](https://blog.gabrielandre.com.br/oci-homelab-part-2-building-was-only-the-beginning/) <sub>18/09/2026</sub>
