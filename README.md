@@ -24,7 +24,7 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
 
 #### Merged pull requests
 
-**[argocd-agent](https://github.com/argoproj-labs/argocd-agent) (Redefining the multi cluster story of Argo CD)**
+**[Argo CD Agent](https://github.com/argoproj-labs/argocd-agent) (Multi-cluster architecture for Argo CD)**
 
 * [#1185](https://github.com/argoproj-labs/argocd-agent/pull/1185): feat: warn that namespace-based mapping is deprecated
 * [#1183](https://github.com/argoproj-labs/argocd-agent/pull/1183): fix(agent): keep the re-created app when the principal deletes and re-creates it
@@ -32,11 +32,11 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
 * [#1176](https://github.com/argoproj-labs/argocd-agent/pull/1176): fix(e2e): wait for agents to connect before running tests
 * [#1173](https://github.com/argoproj-labs/argocd-agent/pull/1173): fix: stop leaking redis subscription goroutines in agent and principal
 
-**[istio-headlamp-plugin](https://github.com/eottabom/istio-headlamp-plugin) (Istio service mesh UI for Headlamp, with first-class ambient mode support and spec-first resource details.)**
+**[Istio Headlamp plugin](https://github.com/eottabom/istio-headlamp-plugin) (Istio service mesh UI for Headlamp)**
 
 * [#2](https://github.com/eottabom/istio-headlamp-plugin/pull/2): fix: find the Istio control plane outside istio-system
 
-**[kubernetes-security-kcsa-mock](https://github.com/thiago4go/kubernetes-security-kcsa-mock) (This project is an interactive web application designed to help aspiring Kubernetes security professionals prepare for certification exams. It features a comprehensive and adjustable mock exam with questions covering various aspects of Kubernetes security.)**
+**[KCSA mock exam](https://github.com/thiago4go/kubernetes-security-kcsa-mock) (Kubernetes security certification practice app)**
 
 * [#45](https://github.com/thiago4go/kubernetes-security-kcsa-mock/pull/45): Source add/docker compose and docker build
 
