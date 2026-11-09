@@ -68,3 +68,8 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://blog.gabrielandre.com.br/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake.svg" />
+</picture>
