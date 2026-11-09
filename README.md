@@ -32,10 +32,10 @@ learning:  homelab experiments -> blog posts
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logoColor=white)
 
 ### Latest from the blog
 
@@ -51,11 +51,20 @@ learning:  homelab experiments -> blog posts
 ### GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielandre02&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Gabrielandre02&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/metrics/metrics.stats.svg" alt="GitHub metrics" />
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake.svg" />
 </picture>
+
+### Open source
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/metrics/metrics.notable.svg" alt="Notable open source contributions" />
+</div>
