@@ -104,9 +104,5 @@ learning:  homelab experiments -> blog posts
 
 * [#45](https://github.com/thiago4go/kubernetes-security-kcsa-mock/pull/45): Source add/docker compose and docker build
 
-**[pull-request](https://github.com/aprenda-git/pull-request) (Passo a passo de um pull request)**
-
-* [#270](https://github.com/aprenda-git/pull-request/pull/270): Adiciona assinatura gabriel andre
-
 
 <!-- OSS_CONTRIBUTIONS_END -->
