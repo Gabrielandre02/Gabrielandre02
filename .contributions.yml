@@ -1,6 +1,8 @@
 username: "Gabrielandre02"
 
 exclude:
+  repos:
+    - "aprenda-git/pull-request"
   orgs:
     - "rst-services"
     - "gabriel-andre-org"
