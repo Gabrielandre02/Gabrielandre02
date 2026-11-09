@@ -10,3 +10,14 @@ exclude:
 output:
   file: "README.md"
   heading: "#### Merged pull requests"
+
+repo_overrides:
+  argoproj-labs/argocd-agent:
+    display_name: "Argo CD Agent"
+    description: "Multi-cluster architecture for Argo CD"
+  eottabom/istio-headlamp-plugin:
+    display_name: "Istio Headlamp plugin"
+    description: "Istio service mesh UI for Headlamp"
+  thiago4go/kubernetes-security-kcsa-mock:
+    display_name: "KCSA mock exam"
+    description: "Kubernetes security certification practice app"
