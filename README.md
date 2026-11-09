@@ -18,7 +18,7 @@ I run and troubleshoot production platforms: Kubernetes clusters (RKE2, OpenShif
 
 I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
-[![merged PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Amerged+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org&label=merged%20PRs&color=2ea44f&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Amerged+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org) [![open PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Aopen+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org&label=open%20PRs&color=58A6FF&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Aopen+-user%3AGabrielandre02+-org%3Arst-services+-org%3Agabriel-andre-org)
+[![merged PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Amerged+-user%3AGabrielandre02&label=merged%20PRs&color=2ea44f&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Amerged+-user%3AGabrielandre02) [![open PRs](https://img.shields.io/github/issues-search?query=author%3AGabrielandre02+type%3Apr+is%3Aopen+-user%3AGabrielandre02&label=open%20PRs&color=58A6FF&style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3AGabrielandre02+is%3Aopen+-user%3AGabrielandre02)
 
 <!-- OSS_CONTRIBUTIONS_START -->
 
