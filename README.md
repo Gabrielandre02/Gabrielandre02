@@ -10,7 +10,7 @@
 
 </div>
 
-I run and troubleshoot production platforms: Kubernetes clusters (RKE2, OpenShift, OKE), GitOps pipelines and the monitoring around them. I keep a homelab to test things before they reach production, and I write about what I learn.
+I run and troubleshoot production platforms: Kubernetes clusters (RKE2, OpenShift, OKE), GitOps pipelines and the monitoring around them. I keep a homelab to test things before they reach production, and I write about what I learn. Day to day: Kubernetes, Argo CD, Istio, Terraform, Ansible, Prometheus and Grafana.
 
 > 🇧🇷 Engenheiro SRE / Plataforma. Trabalho com Kubernetes, GitOps e observabilidade em produção, e compartilho o que aprendo no blog.
 
@@ -57,18 +57,6 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
   <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-in-openshift"><img src="https://images.credly.com/images/e7a34dc0-feb1-44a1-b8e7-3f825faf1c8e/blob" width="90" alt="Red Hat Certified System Administrator in OpenShift" title="Red Hat Certified System Administrator in OpenShift" /></a>
 </p>
 <!-- CREDLY:END -->
-
-## Stack
-
-| | |
-|---|---|
-| **Orchestration** | Kubernetes · OpenShift · RKE2 · OKE · Docker Swarm |
-| **GitOps & CI/CD** | Argo CD · Helm · GitLab CI · GitHub Actions · Azure DevOps |
-| **Infrastructure as code** | Terraform · Ansible · Vagrant |
-| **Observability** | Prometheus · Grafana · Zabbix · Dynatrace |
-| **Networking & mesh** | Istio · Traefik · NGINX |
-| **Cloud** | OCI · AWS · Azure · Google Cloud |
-| **Systems** | Linux · RHEL · Bash · Git |
 
 ## Latest from the blog
 
