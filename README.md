@@ -73,3 +73,21 @@ I contribute upstream to projects I run in production: Argo CD Agent, Headlamp a
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output/github-snake.svg" />
 </picture>
+
+## Preview: contribution graphs
+
+<!-- temporary section to compare options; remove before merging -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/pacman-contribution-graph.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/breakout-contribution-graph-dark.svg" />
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-pacman/breakout-contribution-graph.svg" />
+</picture>
+
+![3D contributions, green](https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-3d/profile-green-animate.svg)
+
+![3D contributions, night view](https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/output-3d/profile-night-view.svg)
