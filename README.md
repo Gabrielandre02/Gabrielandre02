@@ -83,3 +83,6 @@ learning:  homelab experiments -> blog posts
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gabrielandre02/Gabrielandre02/metrics/metrics.notable.svg" alt="Notable open source contributions" />
 </div>
+
+<!-- OSS_CONTRIBUTIONS_START -->
+<!-- OSS_CONTRIBUTIONS_END -->

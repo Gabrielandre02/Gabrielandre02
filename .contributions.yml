@@ -1,0 +1,10 @@
+username: "Gabrielandre02"
+
+exclude:
+  orgs:
+    - "rst-services"
+    - "gabriel-andre-org"
+
+output:
+  file: "README.md"
+  heading: "#### Merged pull requests"

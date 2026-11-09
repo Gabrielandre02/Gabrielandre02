@@ -25,9 +25,6 @@ jobs:
           config_display: large
           filename: metrics.stats.svg
           committer_branch: metrics
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
 
       - name: Open source contributions
         uses: lowlighter/metrics@latest
@@ -41,4 +38,28 @@ jobs:
           committer_branch: metrics
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_notable_filter: stars:>10
+
+  dark-mode:
+    needs: metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: metrics
+      - name: Add dark mode styles to the SVGs
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          css = ("<style>@media (prefers-color-scheme: dark)"
+                 "{svg{color:#9198a1}h1,h2,h3{color:#58a6ff}.field svg{fill:#8b949e}}</style>")
+          for name in ("metrics.stats.svg", "metrics.notable.svg"):
+              path = pathlib.Path(name)
+              text = path.read_text()
+              if "prefers-color-scheme: dark" not in text:
+                  path.write_text(text.replace("</svg>", css + "</svg>", 1) if text.rstrip().endswith("</svg>") else text)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.stats.svg metrics.notable.svg
+          git diff --cached --quiet || git commit -m "chore: add dark mode styles to metrics SVGs"
+          git push
