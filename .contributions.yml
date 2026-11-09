@@ -1,23 +1,27 @@
 username: "Gabrielandre02"
 
-exclude:
+# Positive list: add a repo here (and in the README badges) to show it.
+include:
   repos:
-    - "aprenda-git/pull-request"
-  orgs:
-    - "rst-services"
-    - "gabriel-andre-org"
-
-output:
-  file: "README.md"
-  heading: "#### Merged pull requests"
+    - "argoproj-labs/argocd-agent"
+    - "kubernetes-sigs/headlamp"
+    - "redhat-developer/gitops-operator"
+    - "eottabom/istio-headlamp-plugin"
 
 repo_overrides:
   argoproj-labs/argocd-agent:
     display_name: "Argo CD Agent"
     description: "Multi-cluster architecture for Argo CD"
+  kubernetes-sigs/headlamp:
+    display_name: "Headlamp"
+    description: "Extensible Kubernetes web UI"
+  redhat-developer/gitops-operator:
+    display_name: "OpenShift GitOps operator"
+    description: "Argo CD on OpenShift"
   eottabom/istio-headlamp-plugin:
     display_name: "Istio Headlamp plugin"
     description: "Istio service mesh UI for Headlamp"
-  thiago4go/kubernetes-security-kcsa-mock:
-    display_name: "KCSA mock exam"
-    description: "Kubernetes security certification practice app"
+
+output:
+  file: "README.md"
+  heading: "#### Merged pull requests"
