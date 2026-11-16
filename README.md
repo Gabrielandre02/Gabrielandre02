@@ -26,6 +26,15 @@ I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
 **[Argo CD Agent](https://github.com/argoproj-labs/argocd-agent) (Multi-cluster architecture for Argo CD)**
 
+* [#1206](https://github.com/argoproj-labs/argocd-agent/pull/1206): test(tlsutil): add unit coverage for TLS reloading and key helpers
+* [#1204](https://github.com/argoproj-labs/argocd-agent/pull/1204): test(kube): add unit coverage for the kubernetes client helpers
+* [#1203](https://github.com/argoproj-labs/argocd-agent/pull/1203): test(appproject): add unit coverage for the appproject manager
+* [#1202](https://github.com/argoproj-labs/argocd-agent/pull/1202): test(repository): add unit coverage for the repository manager
+* [#1198](https://github.com/argoproj-labs/argocd-agent/pull/1198): test(replication): add unit coverage for the event forwarder
+* [#1197](https://github.com/argoproj-labs/argocd-agent/pull/1197): test(event): add unit coverage for event construction and parsing
+* [#1196](https://github.com/argoproj-labs/argocd-agent/pull/1196): test(redisproxy): add unit coverage across parsing, config and connection handling
+* [#1195](https://github.com/argoproj-labs/argocd-agent/pull/1195): ci: enable Dependabot updates for GitHub Actions
+* [#1194](https://github.com/argoproj-labs/argocd-agent/pull/1194): ci: add /assign and /unassign issue self-assignment workflow
 * [#1185](https://github.com/argoproj-labs/argocd-agent/pull/1185): feat: warn that namespace-based mapping is deprecated
 * [#1183](https://github.com/argoproj-labs/argocd-agent/pull/1183): fix(agent): keep the re-created app when the principal deletes and re-creates it
 * [#1177](https://github.com/argoproj-labs/argocd-agent/pull/1177): ci(e2e): pin goreman and use the go.mod toolchain in the e2e job
