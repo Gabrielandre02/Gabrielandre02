@@ -26,7 +26,11 @@ I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
 **[Argo CD Agent](https://github.com/argoproj-labs/argocd-agent) (Multi-cluster architecture for Argo CD)**
 
+* [#1230](https://github.com/argoproj-labs/argocd-agent/pull/1230): fix(principal): add the refresh annotation to an application that has no annotations
+* [#1227](https://github.com/argoproj-labs/argocd-agent/pull/1227): docs: remove shipped items from the roadmap
+* [#1207](https://github.com/argoproj-labs/argocd-agent/pull/1207): test(ctl): add unit coverage for the config commands and the root command
 * [#1206](https://github.com/argoproj-labs/argocd-agent/pull/1206): test(tlsutil): add unit coverage for TLS reloading and key helpers
+* [#1205](https://github.com/argoproj-labs/argocd-agent/pull/1205): test(application): add unit coverage for the application manager
 * [#1204](https://github.com/argoproj-labs/argocd-agent/pull/1204): test(kube): add unit coverage for the kubernetes client helpers
 * [#1203](https://github.com/argoproj-labs/argocd-agent/pull/1203): test(appproject): add unit coverage for the appproject manager
 * [#1202](https://github.com/argoproj-labs/argocd-agent/pull/1202): test(repository): add unit coverage for the repository manager
@@ -43,7 +47,23 @@ I contribute to open source projects in the Kubernetes and GitOps ecosystem.
 
 **[Istio Headlamp plugin](https://github.com/eottabom/istio-headlamp-plugin) (Istio service mesh UI for Headlamp)**
 
+* [#17](https://github.com/eottabom/istio-headlamp-plugin/pull/17): dev: one entrypoint for running the plugin in a local Headlamp
+* [#16](https://github.com/eottabom/istio-headlamp-plugin/pull/16): ci: measure unit-test coverage and show it in the job summary
 * [#2](https://github.com/eottabom/istio-headlamp-plugin/pull/2): fix: find the Istio control plane outside istio-system
+
+**[OpenShift GitOps operator](https://github.com/redhat-developer/gitops-operator) (Argo CD on OpenShift)**
+
+* [#1569](https://github.com/redhat-developer/gitops-operator/pull/1569): test(dex): use an unknown TLS group in the unsupported curves case
+* [#1539](https://github.com/redhat-developer/gitops-operator/pull/1539): chore(e2e): Use DeferCleanup instead of AfterEach cleanup in sequential tests
+* [#1538](https://github.com/redhat-developer/gitops-operator/pull/1538): chore(e2e): Use DeferCleanup instead of AfterEach cleanup in parallel tests 1-007 to 1-070
+* [#1537](https://github.com/redhat-developer/gitops-operator/pull/1537): chore(e2e): Use DeferCleanup for namespace cleanup in sequential tests 1-083 to 1-135
+* [#1536](https://github.com/redhat-developer/gitops-operator/pull/1536): chore(e2e): Use DeferCleanup for namespace cleanup in sequential tests 1-019 to 1-071
+* [#1535](https://github.com/redhat-developer/gitops-operator/pull/1535): chore(e2e): Use DeferCleanup for namespace cleanup in parallel tests 1-001 to 1-009
+* [#1534](https://github.com/redhat-developer/gitops-operator/pull/1534): chore(e2e): Use DeferCleanup for namespace cleanup in parallel tests 1-091 to 1-144
+* [#1533](https://github.com/redhat-developer/gitops-operator/pull/1533): chore(e2e): Use DeferCleanup for namespace cleanup in parallel tests 1-061 to 1-089
+* [#1532](https://github.com/redhat-developer/gitops-operator/pull/1532): chore(e2e): Use DeferCleanup for namespace cleanup in parallel tests 1-042 to 1-058
+* [#1531](https://github.com/redhat-developer/gitops-operator/pull/1531): chore(e2e): Use DeferCleanup for namespace cleanup in parallel tests 1-019 to 1-039
+* [#1504](https://github.com/redhat-developer/gitops-operator/pull/1504): chore(e2e): add CreatePerTestNs and print debug output on every failed spec
 
 
 <!-- OSS_CONTRIBUTIONS_END -->
